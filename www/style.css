@@ -1,0 +1,96 @@
+
+/* Pour la barre de navigation */
+
+.nav-tabs {
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #00A3E0;
+}
+
+.nav-tabs li a {
+    color: #333;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.nav-tabs li a:hover {
+    background-color: #e0f7fa;
+}
+
+.nav-tabs li.active a {
+    background-color: #00A3E0;
+    color: white;
+}
+
+.tab-content {
+    border: 1px solid #00A3E0;
+    padding: 15px;
+    margin-top: -1px;
+    background-color: #ffffff;
+}
+
+
+/* Pour le formulaire de prédiction */
+
+/* Centrer le texte des labels et des boutons */
+label, .btn {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Espacement et alignement des champs de saisie */
+.form-control {
+    margin-bottom: 15px;
+    width: 80%; /* Ajuste la largeur des champs */
+}
+
+//* Style pour le bouton */
+.btn {
+    background-color: #007bff; 
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px; 
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Ajout d'un contour au focus */
+}
+
+/* Style du conteneur pour centrer le contenu */
+#predictFormContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style page "A propos" */
+
+/* Centrer l'image */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Style pour les titres */
+h3, h4 {
+    color: #007bff; /* Couleur bleue pour les titres */
+}
+
+/* Style pour les liens */
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
