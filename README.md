@@ -1,30 +1,32 @@
 # World Happiness Dashboard
 
-A Shiny application exploring the **World Happiness Report (2015–2023)** with interactive visualisations, country profiles and predictive modelling.
+Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** data through visualizations, country profiles, and predictive modeling.
 
----
 
 ## 🔗 Live Demo
 
-A short demo of the app in action:  
-[![Live Demo on ShinyApps.io](https://your-demo-link/demo.gif)](https://your-shinyapps-url.shinyapps.io/world_happiness_app)
+See the app in action:  
+[![Live Demo](https://your-demo-link/demo.gif)](https://your-shinyapps-url.shinyapps.io/world_happiness_app)
 
----
+
 
 ## Features
 
 - **Descriptive Analysis**  
-  – Summary tables, trend lines, top-N rankings, correlation matrices, PCA.  
-- **Interactive Map**  
-  – Choropleth of any metric by year, dynamic legend, country drill-down.  
-- **Country Profile**  
-  – Radar chart of six determinants for a selected country.  
-- **Metric Explorer**  
-  – Scatter plot of any two variables in a given year, with modal drill-down.  
-- **Prediction**  
-  – Multiple linear regression on six factors; live input and score output.
+  Summary statistics, trends, rankings, correlation matrices, PCA.
 
----
+- **Interactive Map**  
+  Explore global metrics year-by-year, drill down into countries.
+
+- **Country Profile**  
+  Radar chart analysis of happiness determinants per country.
+
+- **Metric Explorer**  
+  Interactive scatter plots with detailed country-level insights.
+
+- **Predictive Modeling**  
+  Predict happiness score from six key factors via linear regression.
+
 
 ## Getting Started
 
@@ -38,7 +40,7 @@ A short demo of the app in action:
    install.packages(c(
      "shiny", "shinythemes", "leaflet", "dplyr", "ggplot2", "tidyr",
      "FactoMineR", "Factoshiny", "corrplot", "tidytext", "RColorBrewer",
-     "sf", "rnaturalearth", "rnaturalearthdata", "plotly", "prophet"
+     "sf", "rnaturalearth", "rnaturalearthdata", "plotly"
    ))
    ```
 3. **Run the app**  
