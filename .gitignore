@@ -30,3 +30,6 @@ Thumbs.db
 # Python virtualenv
 venv/
 env/
+
+
+*.Rproj
