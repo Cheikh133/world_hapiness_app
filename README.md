@@ -46,20 +46,3 @@ A short demo of the app in action:
    library(shiny)
    runApp()
    ```
-
----
-
-## Project Structure
-
-```
-├── app.R
-├── descriptive_analysis_server.R
-├── shiny_data/
-│   └── whr_2015_2023.csv
-├── www/
-│   ├── style.css
-│   ├── happy.jpg
-│   └── model.rds
-└── README.md
-```
-
