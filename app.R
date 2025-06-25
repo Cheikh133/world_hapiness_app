@@ -1,4 +1,4 @@
-# Load required libraries
+library(rsconnect)# Load required libraries
 library(shiny)             # Shiny framework
 library(shinythemes)       # Themes for Shiny
 library(leaflet)           # Leaflet maps
