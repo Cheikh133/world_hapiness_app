@@ -32,7 +32,7 @@ Watch a quick walkthrough:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-org/world_happiness_app.git
+   git clone https://github.com/Cheikh133/world_hapiness_app.git
    cd world_happiness_app
    ```
 2. **Install R packages**  
