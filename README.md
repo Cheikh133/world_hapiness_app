@@ -3,10 +3,10 @@
 Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** data through visualizations, country profiles, and predictive modeling.
 
 
-## 🔗 Live Demo
+## 🎥 Video Tutorial
 
-See the app in action:  
-[![Live Demo](https://your-demo-link/demo.gif)](https://your-shinyapps-url.shinyapps.io/world_happiness_app)
+Watch a quick walkthrough:  
+[![Watch the tutorial](https://img.youtube.com/vi/1DTRjHESWTc/maxresdefault.jpg)](https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-)
 
 
 
