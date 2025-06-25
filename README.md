@@ -7,7 +7,7 @@ Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** d
 
 <div align="center">
   <a href="https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-" target="_blank">
-    <img src="www/demo.png" alt="Watch the live app demo" />
+    <img src="www/demo.png" alt="Watch the live app demo" width="1280" height="720" />
   </a>
 </div>
 
