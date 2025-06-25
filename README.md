@@ -7,7 +7,7 @@ Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** d
 
 Watch a quick walkthrough:    
 
-[![Watch the tutorial](www/tutorial.jpg)](https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-)
+[![Watch the tutorial](www/tutorial.png)](https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-)
 
 
 
