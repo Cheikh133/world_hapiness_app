@@ -5,11 +5,11 @@ Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** d
 
 ## 🎥 Live Demo
 
-<div align="center" class="demo-container">
-  <a href="https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-" target="_blank">
+<div align="center">
+  <a href="https://youtu.be/1DTRjHESWTc?si=twXWFf3CMHgXKBw-" target="_blank" rel="noopener noreferrer">
     <img src="www/tutorial.png" alt="Live app demo" width="500" height="450" />
-    <div class="caption">Watch the live app demo</div>
   </a>
+  <p><strong>Watch the live app demo</strong></p>
 </div>
 
 
