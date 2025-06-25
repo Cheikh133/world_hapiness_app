@@ -94,3 +94,26 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+
+
+
+.demo-container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.demo-container img {
+  display: block;
+}
+.demo-container .caption {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-shadow: 0 0 5px black;
+}
