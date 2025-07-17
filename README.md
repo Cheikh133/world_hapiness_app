@@ -53,3 +53,11 @@ Interactive Shiny dashboard exploring **World Happiness Report (2015–2023)** d
    library(shiny)
    runApp()
    ```
+
+## Author
+
+**Cheikh LO**  
+*Data Scientist & Statistical Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheikh%20LO-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cheikh-lo-531701193/)  
+[![GitHub](https://img.shields.io/badge/GitHub-cheikh133-black?logo=github&style=flat-square)](https://github.com/cheikh133)
